@@ -1,0 +1,10 @@
+You have 190 calorie.
+You do 4.422000000000001 seconds sports.
+You do 1 kind of different sports.
+It is: {'run'}
+You calories change is: 
+                                   0
+                                   95
+                                   198
+                                   193
+                                   190
